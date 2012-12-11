@@ -1,13 +1,13 @@
 # nanonation-utils
 
-A Clojure library designed to ... well, that part is up to you.
+Nanonation, Inc. Clojure utilities library
 
 ## Usage
 
-FIXME
+
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Nanonation, Inc.
 
 Distributed under the Eclipse Public License, the same as Clojure.

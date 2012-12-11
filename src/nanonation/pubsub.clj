@@ -4,7 +4,7 @@
   with an optional predicate function. Events which match the predicate are
   sent to the subscriber."
       :attribution "adapted from riemann (https://github.com/aphyr/riemann)"}
-  nanonation-utils.pubsub)
+  nanonation.pubsub)
 
                                         ; Registry:
                                         ;   channel1:
